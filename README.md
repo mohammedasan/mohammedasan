@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # 👋 Hi, I'm Mohammed Asan  
 
 💻 Full Stack Developer | 🚀 MERN Enthusiast | 🔧 Problem Solver  
@@ -9,7 +7,7 @@
 ## 🌟 About Me
 - 🎓 Studied at **Sri Shakthi Institute of Engineering and Technology**  
 - 💡 Skilled in **MERN Stack, Java, Python Django, Databases**  
-- 🧩 Solved **200+ problems on [LeetCode](https://leetcode.com/u/mohammed_asan/)** and earned the **100 Days Badge**  
+- 🧩 Solved **580+ problems on [LeetCode](https://leetcode.com/u/mohammed_asan/)** and earned the **100 Days Badge**  
 - 🌱 Currently exploring **advanced React & backend optimizations**  
 - 🎯 Passionate about **UI/UX + scalable web apps**  
 
@@ -22,7 +20,6 @@
 ![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)  
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-DD4B25?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -52,7 +49,7 @@ Tech: *React + Express*
 ---
 
 ## 📫 Connect With Me
-- 📧 **mohammedasan@example.com**  
+- 📧 **mohammedasan1480@gmail.com**  
 - 💼 [LinkedIn](https://linkedin.com/in/YOUR_LINKEDIN)  
 - 🌍 Portfolio: *(coming soon)*  
 
