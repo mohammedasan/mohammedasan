@@ -51,7 +51,7 @@ Tech: *MERN Stack, MongoDB Compass*
 ## 📫 Connect With Me
 - 📧 **mohammedasan1480@gmail.com**  
 - 💼 [LinkedIn](https://linkedin.com/in/YOUR_LINKEDIN)  
-- 🌍 Portfolio: *(coming soon)*  
+- 🌍 Portfolio: https://asanportfolio.vercel.app/
 
 ---
 ✨ *"Code, Solve, Build — Repeat."*
