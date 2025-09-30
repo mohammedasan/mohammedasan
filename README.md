@@ -46,7 +46,7 @@ Tech: *MERN Stack, MongoDB Compass*
 ---
 
 ## 🏆 LeetCode Stats
-![LeetCode Stats](https://leetcard.jacoblin.cool/mohammedasan?theme=radical&font=Karma&ext=heatmap)
+![LeetCode Stats](https://leetcard.jacoblin.cool/mohammed_asan?theme=radical&font=Karma&ext=heatmap)
 
 ## 📫 Connect With Me
 - 📧 **mohammedasan1480@gmail.com**  
