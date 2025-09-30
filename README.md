@@ -6,7 +6,7 @@
 
 ## 🌟 About Me
 - 🎓 Studied at **Sri Shakthi Institute of Engineering and Technology**  
-- 💡 Skilled in **MERN Stack, Java, Python Django, Databases**  
+- 💡 Skilled in **MERN Stack, Java, Databases**  
 - 🧩 Solved **580+ problems on [LeetCode](https://leetcode.com/u/mohammed_asan/)** and earned the **100 Days Badge**  
 - 🌱 Currently exploring **advanced React & backend optimizations**  
 - 🎯 Passionate about **UI/UX + scalable web apps**  
@@ -28,16 +28,13 @@
 
 ## 🚀 Projects
 
-### 🏥 Drug & Supply Inventory Management System
+### 💬 Real-Time Chat Application
+📌 A chat platform that supports **instant messaging, user authentication, and live socket communication**.  
+Tech: *MERN Stack, Socket.io*  
+
+### 🏥 Drug Inventory Management System
 📌 Tracks drugs across multiple pharmaceutical shops and calculates the **shortest delivery paths** for vendors.  
 Tech: *MERN Stack, MongoDB Compass*  
-
-### 👕 Dress E-Commerce Website
-📌 A responsive e-commerce platform for dresses, built with **MERN Stack**, featuring **user authentication, cart, and order tracking**.  
-
-### ✅ TODO List App
-📌 Simple but effective productivity app with add, mark-as-done, and delete features.  
-Tech: *React + Express*  
 
 ---
 
@@ -47,6 +44,11 @@ Tech: *React + Express*
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohammedasan&layout=compact&theme=radical)  
 
 ---
+
+## 📚 LeetCode Stats  
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/mohammed_asan?theme=dark&font=Karma&ext=contest)  
+
 
 ## 📫 Connect With Me
 - 📧 **mohammedasan1480@gmail.com**  
